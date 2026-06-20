@@ -1,0 +1,6 @@
+{
+  "name": "BrunoTV",
+  "description": "Site oficial do BrunoTV o seu aplicativo IPTV premium. Assista a canais ao vivo, filmes, séries e esportes de alta qualidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
